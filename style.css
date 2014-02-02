@@ -1,0 +1,26 @@
+html {
+	font-family:"Arial",Sans-Serif;
+	font-size:50%;
+	color: #222222;
+}
+h1{
+	background-color:#CCCCCC;
+}
+h2 {
+	background-color:#DDDDDD;
+	margin-left:5%;
+}
+
+h3 {
+	margin-left:10%;
+	background-color:#EEEEEE;
+}
+
+table {
+	margin-left:15%;
+	border-collapse:collapse;
+}
+
+table, td, th {
+border:2px solid red;
+}

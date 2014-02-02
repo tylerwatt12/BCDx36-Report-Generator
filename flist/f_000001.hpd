@@ -1,0 +1,192 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Trunk			Greater Cleveland Radio Communications Network	Off		P25Standard	Off	Off	Auto	Ignore	Srch	1	Off	0	Off	Off	Analog	Off	Off	On
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+UnitIds			Station 1	1872000	Off	Auto	Red	On
+UnitIds			Station 2	1872001	Off	Auto	Red	On
+UnitIds			console	1872003	Off	Auto	White	On
+UnitIds			Medic 1	1872110	Off	Auto	Red	On
+UnitIds			Engine 11	1872111	Off	Auto	Red	On
+UnitIds			Medic 2	1872112	Off	Auto	Red	On
+UnitIds			Medic 12	1872113	Off	Auto	Red	On
+UnitIds			Medic 11	1872114	Off	Auto	Red	On
+UnitIds			Engine 21	1872115	Off	Auto	Red	On
+UnitIds			Rescue 1	1872116	Off	Auto	Red	On
+UnitIds			Utility 10	1872117	Off	Auto	Red	On
+UnitIds			Utility 20	1872119	Off	Auto	Red	On
+UnitIds			Engine 21 portable	1872300	Off	Auto	Red	On
+UnitIds			Walkie Talkie 15	1872301	Off	Auto	Red	On
+UnitIds			Walkie Talkie 23	1872302	Off	Auto	Red	On
+UnitIds			Walkie Talkie 21	1872303	Off	Auto	Red	On
+UnitIds			Walkie Talkie 16	1872304	Off	Auto	Red	On
+UnitIds			Medic 12	1872305	Off	Auto	Red	On
+UnitIds			Walkie Talkie 11	1872306	Off	Auto	Red	On
+UnitIds			Walkie Talkie 14	1872307	Off	Auto	Red	On
+UnitIds			Portable 11	1872308	Off	Auto	Red	On
+UnitIds			Walkie Talkie 13	1872309	Off	Auto	Red	On
+UnitIds			Rescue 1 portable	1872310	Off	Auto	Red	On
+UnitIds			Utility 20	1872311	Off	Auto	Red	On
+UnitIds			Portable Medic 1	1872312	Off	Auto	Red	On
+UnitIds			Car 2 Medic 11	1872313	Off	Auto	Red	On
+UnitIds			Walkie Talkie 22	1872314	Off	Auto	Red	On
+UnitIds			Walkie Talkie 18	1872315	Off	Auto	Red	On
+UnitIds			Walkie Talkie 24	1872316	Off	Auto	Red	On
+UnitIds			Portable Utility 10	1872317	Off	Auto	Red	On
+UnitIds			Medic 2 portable	1872318	Off	Auto	Red	On
+UnitIds			Portable 12	1872319	Off	Auto	Red	On
+UnitIds			Walkie Talkie 17	1872320	Off	Auto	Red	On
+UnitIds			Station 1	1872321	Off	Auto	Red	On
+UnitIds			Car 3	1872322	Off	Auto	Red	On
+UnitIds			Walkie Talkie 10	1872323	Off	Auto	Red	On
+UnitIds			Car 2	1872326	Off	Auto	Red	On
+UnitIds			Officer 1 portable	1872328	Off	Auto	Red	On
+UnitIds			1	1872330	Off	Auto	Red	On
+UnitIds			Fire Dispatch	1876501	Off	Auto	Red	On
+UnitIds			43	1876602	Off	Auto	Red	On
+UnitIds			24	1876603	Off	Auto	Red	On
+UnitIds			21	1876605	Off	Auto	Red	On
+UnitIds			43	1876651	Off	Auto	Red	On
+UnitIds			Police Dispatch	1876700	Off	Auto	White	On
+UnitIds			1877817 Jonathan	1877817	Off	Auto	Red	On
+UnitIds			Station 1	1878001	Off	Auto	Red	On
+UnitIds			Station 2	1878002	Off	Auto	Red	On
+UnitIds			Station 3	1878003	Off	Auto	Red	On
+UnitIds			Station 4	1878004	Off	Auto	Red	On
+UnitIds			Medic 3	1878100	Off	Auto	Red	On
+UnitIds			Medic 2	1878101	Off	Auto	Red	On
+UnitIds			Car 4	1878102	Off	Auto	Red	On
+UnitIds			Medic 4	1878103	Off	Auto	Red	On
+UnitIds			Medic 1	1878104	Off	Auto	Red	On
+UnitIds			Engine 3	1878108	Off	Auto	Red	On
+UnitIds			Ladder 4	1878109	Off	Auto	Red	On
+UnitIds			Tower 1	1878110	Off	Auto	Red	On
+UnitIds			Engine 2	1878114	Off	Auto	Red	On
+UnitIds			Medic 1 Portable	1878301	Off	Auto	Red	On
+UnitIds			Engine 2 Portable	1878303	Off	Auto	Red	On
+UnitIds			Engine 2	1878304	Off	Auto	Red	On
+UnitIds			Engine 3	1878305	Off	Auto	Red	On
+UnitIds			Engine 4	1878307	Off	Auto	Red	On
+UnitIds			Engine 2	1878312	Off	Auto	Red	On
+UnitIds			Portable	1878313	Off	Auto	Red	On
+UnitIds			Station 4	1878314	Off	Auto	Red	On
+UnitIds			Car 2	1878320	Off	Auto	Red	On
+UnitIds			Car 4	1878321	Off	Auto	Red	On
+UnitIds			Station 3	1878326	Off	Auto	Red	On
+UnitIds			Station 3 portable	1878327	Off	Auto	Red	On
+UnitIds			Ladder 4	1878338	Off	Auto	Red	On
+UnitIds			339 Car 4	1878339	Off	Auto	Red	On
+UnitIds			Car 4	1878343	Off	Auto	Red	On
+UnitIds			35	1878802	Off	Auto	Red	On
+UnitIds			4	1872600	Off	Auto	Blue	On
+UnitIds			11 09 v81	1872601	Off	Auto	Blue	On
+UnitIds			8/6/2014	1872602	Off	Auto	Blue	On
+UnitIds			36 37 v73	1872603	Off	Auto	Blue	On
+UnitIds			v54	1872604	Off	Auto	Blue	On
+UnitIds			46	1872605	Off	Auto	Blue	On
+UnitIds			30 42 v87	1872606	Off	Auto	Blue	On
+UnitIds			54 50 v70	1872607	Off	Auto	Blue	On
+UnitIds			v77	1872608	Off	Auto	Blue	On
+UnitIds			v72	1872609	Off	Auto	Blue	On
+UnitIds			41 35 v71	1872610	Off	Auto	Blue	On
+UnitIds			57	1872611	Off	Auto	Blue	On
+UnitIds			47 55 v76	1872612	Off	Auto	Blue	On
+UnitIds			44 HT	1872613	Off	Auto	Blue	On
+UnitIds			45 29 v80	1872614	Off	Auto	Blue	On
+UnitIds			52	1872616	Off	Auto	Blue	On
+UnitIds			51 Karl	1872617	Off	Auto	Blue	On
+UnitIds			52 HT	1872620	Off	Auto	Blue	On
+UnitIds			46 HT	1872621	Off	Auto	Blue	On
+UnitIds			4	1872800	Off	Auto	Blue	On
+UnitIds			06 HT	1872803	Off	Auto	Blue	On
+UnitIds			56 HT	1872806	Off	Auto	Blue	On
+UnitIds			45 HT	1872809	Off	Auto	Blue	On
+UnitIds			07 HT	1872810	Off	Auto	Blue	On
+UnitIds			37 HT	1872811	Off	Auto	Blue	On
+UnitIds			50 HT	1872812	Off	Auto	Blue	On
+UnitIds			09 HT	1872813	Off	Auto	Blue	On
+UnitIds			43 HT	1872815	Off	Auto	Blue	On
+UnitIds			42 HT	1872816	Off	Auto	Blue	On
+UnitIds			47 HT	1872818	Off	Auto	Blue	On
+UnitIds			51 HT	1872819	Off	Auto	Blue	On
+UnitIds			54 HT	1872820	Off	Auto	Blue	On
+UnitIds			31	1872822	Off	Auto	Blue	On
+UnitIds			87 HT	1872823	Off	Auto	Blue	On
+UnitIds			58 HT	1872826	Off	Auto	Blue	On
+UnitIds			32 HT	1872827	Off	Auto	Blue	On
+UnitIds			40 HT	1872830	Off	Auto	Blue	On
+UnitIds			57 HT	1872831	Off	Auto	Blue	On
+UnitIds			30 42 HT	1872832	Off	Auto	Blue	On
+UnitIds			33 Unknown Female	1872833	Off	Auto	Blue	On
+UnitIds			55 HT	1872834	Off	Auto	Blue	On
+UnitIds			29 HT	1872835	Off	Auto	Blue	On
+UnitIds			34 HT	1872836	Off	Auto	Blue	On
+UnitIds			48 HT	1872837	Off	Auto	Blue	On
+UnitIds			90 HT	1872840	Off	Auto	Blue	On
+UnitIds			89	1872847	Off	Auto	Blue	On
+UnitIds			11 HT	1872849	Off	Auto	Blue	On
+UnitIds			08 HT	1872850	Off	Auto	Blue	On
+UnitIds			41 HT	1872854	Off	Auto	Blue	On
+UnitIds			NRPD Console	1872500	Off	Auto	White	On
+UnitIds			Medic 2	1878120	Off	Auto	Red	On
+UnitIds			Fire Dispatch	1050	Off	Auto	White	On
+Site			Simulcast	Off	41.453639	-81.705047	19.1	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off
+T-Freq				Off	851900000	1
+T-Freq				Off	852150000	2
+T-Freq				Off	852962500	3
+T-Freq				Off	853375000	4
+T-Freq				Off	853712500	5
+T-Freq				Off	854137500	6
+T-Freq				Off	854187500	7
+T-Freq				Off	854237500	8
+T-Freq				Off	854337500	9
+T-Freq				Off	854562500	10
+T-Freq				Off	854612500	11
+T-Freq				Off	854687500	12
+T-Freq				Off	854712500	13
+T-Freq				Off	854737500	14
+T-Freq				Off	854837500	15
+T-Freq				Off	854912500	16
+T-Freq				Off	854962500	17
+T-Freq				Off	855187500	18
+T-Freq				Off	855287500	19
+T-Freq				Off	855337500	20
+T-Freq				Off	855612500	21
+T-Freq				Off	855662500	22
+T-Freq				Off	855712500	23
+T-Freq				Off	855737500	24
+T-Freq				Off	855837500	25
+T-Freq				Off	855887500	26
+T-Freq				Off	855962500	27
+T-Freq				Off	855987500	28
+T-Freq				Off	856137500	29
+T-Freq				Off	856162500	30
+T-Group			North Royalton	Off	41.312100	-81.744000	4.0	Circle	1
+TGID			Fire Dispatch	Off	56421	ALL	3	2	0	Off	Auto	Red	On	Off	Off
+TGID			Fireground 1	Off	56289	ALL	8	2	0	Off	Auto	Red	Slow Blink	Off	Off
+TGID			Fireground 2	Off	56297	ALL	8	2	0	Off	Auto	Red	Slow Blink	Off	Off
+TGID			Police Dispatch	Off	56427	ALL	2	2	0	Off	Auto	Blue	On	Off	Off
+T-Group			Strongsville	Off	41.311856	-81.836472	4.0	Circle	2
+TGID			Fire Dispatch	Off	56516	ALL	3	2	0	Off	Auto	Red	On	Off	Off
+TGID			Fireground 1	Off	56293	ALL	8	2	0	Off	Auto	Red	Slow Blink	Off	Off
+TGID			Fireground 2	Off	56301	ALL	8	2	0	Off	Auto	Red	Slow Blink	Off	Off
+TGID			Recreation Center	On	56509	ALL	14	2	0	Off	Auto	Yellow	On	Off	Off
+TGID			Service Dept	On	56510	ALL	14	2	0	Off	Auto	Yellow	On	Off	Off
+Conventional			Southwest/South Central Region	Off		Conventional	2	Off	0	Off	Off	400	Auto	8
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group			Fire Departments - North Royalton	Off	41.316497	-81.744117	3.5	Circle	1
+C-Freq			North Royalton Fire Department Pagers	Off	46100000	FM		3	Off	2	0	Off	Auto	Yellow	On	Off	Off
+C-Group			Public Works - North Royalton	Off	41.316497	-81.744117	3.5	Circle	2
+C-Freq			North Royalton Public Works	Off	37260000	FM	TONE=C162.2	14	Off	2	0	Off	Auto	Yellow	On	Off	Off
+C-Group			Schools - North Royalton City School District	Off	41.318353	-81.746522	25.0	Circle	3
+C-Freq			North Roylaton School District - Buses	Off	464875000	FM	TONE=C131.8	32	Off	2	0	Off	Auto	Cyan	On	Off	Off
+C-Group			Schools - Strongsville City School District	Off	41.318353	-81.746522	25.0	Circle	4
+C-Freq			Security/School Buses	Off	463600000	FM	TONE=C123.0	33	Off	2	0	Off	Auto	Cyan	On	Off	Off
+C-Group			Schools - Parma City School District	Off	41.318353	-81.746522	25.0	Circle	5
+C-Freq			Parma Heights City Schools -  Buses	Off	461875000	FM	TONE=C173.8	32	Off	2	0	Off	Auto	Cyan	On	Off	Off
+Conventional			Cuyahoga Valley Region	Off		Conventional	3	Off	0	Off	Off	400	Auto	8
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group			Law Enforcement - Brecksville	Off	41.316083	-81.669478	25.0	Circle	1
+C-Freq			Dispatch	Off	151370000	FM	TONE=C91.5	2	Off	2	0	Off	Auto	Blue	On	Off	Off
+C-Group			Law Enforcement - Broadview Heights/Seven Hills	Off	41.316083	-81.669478	25.0	Circle	2
+C-Freq			Channel 2	Off	158970000	FM	TONE=C110.9	23	Off	2	0	Off	Auto	Blue	Slow Blink	Off	Off
+C-Freq			Dispatch	Off	159210000	FM	TONE=C110.9	2	Off	2	0	Off	Auto	Blue	On	Off	Off
